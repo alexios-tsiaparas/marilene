@@ -1,0 +1,18 @@
+{
+    "name": "alexios-tsiaparas/marilene",
+    "description": "Modular ARchItecture Light ENginE library for web application processing",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AlexiosTsiaparas\\Marilene\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexios Tsiaparas",
+            "email": "alexios@tsiaparas.com"
+        }
+    ],
+    "require": {}
+}
